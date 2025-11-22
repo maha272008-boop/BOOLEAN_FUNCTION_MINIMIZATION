@@ -35,16 +35,32 @@ Hardware – PCs, Cyclone II , USB flasher
 
 /* Program to implement the given logic function and to verify its operations in quartus using Verilog programming. 
 
-Developed by: RegisterNumber:*/
+```
+F(A,B,C,D)=AB+CD+AD
+
+module boolean_function_4var (
+    input  wire A,
+    input  wire B,
+    input  wire C,
+    input  wire D,
+    output wire F
+);
+
+assign F = (~A & B) | (C & D) | (A & ~D);
+
+endmodule
+
+```
+
+Developed by:MAHALAKSHMI P
+RegisterNumber:25017517
 
 
 **RTL realization**
-
-**Output:**
+<img width="1818" height="446" alt="Screenshot 2025-11-22 090908" src="https://github.com/user-attachments/assets/52c8c258-60ba-4b3c-ace5-40e33518238e" />
 
 **RTL**
-
-**Timing Diagram**
+<img width="856" height="437" alt="Screenshot 2025-11-22 090826" src="https://github.com/user-attachments/assets/b803aa47-ed5c-490c-be83-d3d13bab3a9d" />
 
 **Result:**
 
