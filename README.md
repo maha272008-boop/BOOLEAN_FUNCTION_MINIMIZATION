@@ -52,8 +52,9 @@ endmodule
 
 ```
 
-Developed by:MAHALAKSHMI P
-RegisterNumber:25017517
+### Developed by:MAHALAKSHMI P
+
+### RegisterNumber:25017517
 
 
 **RTL realization**
