@@ -58,10 +58,14 @@ endmodule
 
 
 **RTL realization**
-<img width="1818" height="446" alt="Screenshot 2025-11-22 090908" src="https://github.com/user-attachments/assets/52c8c258-60ba-4b3c-ace5-40e33518238e" />
+
+
+<img width="856" height="437" alt="Screenshot 2025-11-22 090826" src="https://github.com/user-attachments/assets/b803aa47-ed5c-490c-be83-d3d13bab3a9d" />
+
 
 **RTL**
-<img width="856" height="437" alt="Screenshot 2025-11-22 090826" src="https://github.com/user-attachments/assets/b803aa47-ed5c-490c-be83-d3d13bab3a9d" />
+
+<img width="1818" height="446" alt="Screenshot 2025-11-22 090908" src="https://github.com/user-attachments/assets/52c8c258-60ba-4b3c-ace5-40e33518238e" />
 
 **Result:**
 
